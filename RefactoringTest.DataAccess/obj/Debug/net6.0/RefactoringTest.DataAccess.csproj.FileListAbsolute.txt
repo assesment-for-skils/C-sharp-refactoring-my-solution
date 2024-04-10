@@ -1,0 +1,15 @@
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.DataAccess/bin/Debug/net6.0/RefactoringTest.DataAccess.deps.json
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.DataAccess/bin/Debug/net6.0/RefactoringTest.DataAccess.dll
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.DataAccess/bin/Debug/net6.0/RefactoringTest.DataAccess.pdb
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.DataAccess/bin/Debug/net6.0/RefactoringTest.Domain.dll
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.DataAccess/bin/Debug/net6.0/RefactoringTest.Domain.pdb
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.DataAccess/obj/Debug/net6.0/RefactoringTest.DataAccess.csproj.AssemblyReference.cache
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.DataAccess/obj/Debug/net6.0/RefactoringTest.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.DataAccess/obj/Debug/net6.0/RefactoringTest.DataAccess.AssemblyInfoInputs.cache
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.DataAccess/obj/Debug/net6.0/RefactoringTest.DataAccess.AssemblyInfo.cs
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.DataAccess/obj/Debug/net6.0/RefactoringTest.DataAccess.csproj.CoreCompileInputs.cache
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.DataAccess/obj/Debug/net6.0/RefactoringTest.DataAccess.csproj.CopyComplete
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.DataAccess/obj/Debug/net6.0/RefactoringTest.DataAccess.dll
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.DataAccess/obj/Debug/net6.0/refint/RefactoringTest.DataAccess.dll
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.DataAccess/obj/Debug/net6.0/RefactoringTest.DataAccess.pdb
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.DataAccess/obj/Debug/net6.0/ref/RefactoringTest.DataAccess.dll

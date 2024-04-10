@@ -1,0 +1,17 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a4e6ec90_002D5328_002D47a4_002Da9e1_002D6cb65228a07b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;RefactoringTest.DataAccess.Tests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;Project Location="/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.DataAccess.Tests" Presentation="&amp;lt;RefactoringTest.DataAccess.Tests&amp;gt;" /&gt;
+    &lt;ProjectFile&gt;12E04F79-4E27-4B76-818B-212CCD333445/f:UnitTest1.cs&lt;/ProjectFile&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;NUnit3x::12E04F79-4E27-4B76-818B-212CCD333445::net6.0::RefactoringTest.Domain.Tests.FeatureDeveloperTests.Constructor_WithValidParameters_ShouldInstantiateCorrectly&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::12E04F79-4E27-4B76-818B-212CCD333445::net6.0::RefactoringTest.Domain.Tests.FeatureDeveloperTests.UpdateCreditAndPerformChecksIfRequired&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::12E04F79-4E27-4B76-818B-212CCD333445::net6.0::RefactoringTest.Domain.Tests.FeatureDeveloperTests&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+    &lt;ProjectFile&gt;12E04F79-4E27-4B76-818B-212CCD333445/f:CandidateTests.cs&lt;/ProjectFile&gt;
+    &lt;ProjectFile&gt;12E04F79-4E27-4B76-818B-212CCD333445/f:SecuritySpecialistTests.cs&lt;/ProjectFile&gt;
+    &lt;ProjectFile&gt;12E04F79-4E27-4B76-818B-212CCD333445/f:CandidateFactory.cs&lt;/ProjectFile&gt;
+    &lt;ProjectFile&gt;6AC066B6-086C-4387-9481-DAA5E36E5119/f:UnitTest1.cs&lt;/ProjectFile&gt;
+    &lt;ProjectFile&gt;6AC066B6-086C-4387-9481-DAA5E36E5119/f:CandidateServiceTests.cs&lt;/ProjectFile&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

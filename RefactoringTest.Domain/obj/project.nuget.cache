@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ob+hujeh5g8xXSCVcBO1pwI9MDtzZDjnNCR2lA+WTp3MUOzncH5oX12aoIvxeSTG0reZZPc//fVp3NIsaozUPA==",
+  "success": true,
+  "projectFilePath": "/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.Domain/RefactoringTest.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/daniel.brazil/.nuget/packages/microsoft.netcore.app.ref/6.0.26/microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "/Users/daniel.brazil/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.26/microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

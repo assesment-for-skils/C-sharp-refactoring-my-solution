@@ -1,0 +1,17 @@
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.Services/bin/Debug/net6.0/RefactoringTest.Services.deps.json
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.Services/bin/Debug/net6.0/RefactoringTest.Services.dll
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.Services/bin/Debug/net6.0/RefactoringTest.Services.pdb
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.Services/bin/Debug/net6.0/RefactoringTest.DataAccess.dll
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.Services/bin/Debug/net6.0/RefactoringTest.Domain.dll
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.Services/bin/Debug/net6.0/RefactoringTest.DataAccess.pdb
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.Services/bin/Debug/net6.0/RefactoringTest.Domain.pdb
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.Services/obj/Debug/net6.0/RefactoringTest.Services.csproj.AssemblyReference.cache
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.Services/obj/Debug/net6.0/RefactoringTest.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.Services/obj/Debug/net6.0/RefactoringTest.Services.AssemblyInfoInputs.cache
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.Services/obj/Debug/net6.0/RefactoringTest.Services.AssemblyInfo.cs
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.Services/obj/Debug/net6.0/RefactoringTest.Services.csproj.CoreCompileInputs.cache
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.Services/obj/Debug/net6.0/RefactoringTest.Services.csproj.CopyComplete
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.Services/obj/Debug/net6.0/RefactoringTest.Services.dll
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.Services/obj/Debug/net6.0/refint/RefactoringTest.Services.dll
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.Services/obj/Debug/net6.0/RefactoringTest.Services.pdb
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.Services/obj/Debug/net6.0/ref/RefactoringTest.Services.dll

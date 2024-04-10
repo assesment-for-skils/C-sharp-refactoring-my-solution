@@ -1,0 +1,11 @@
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.Domain/bin/Debug/net6.0/RefactoringTest.Domain.deps.json
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.Domain/bin/Debug/net6.0/RefactoringTest.Domain.dll
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.Domain/bin/Debug/net6.0/RefactoringTest.Domain.pdb
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.Domain/obj/Debug/net6.0/RefactoringTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.Domain/obj/Debug/net6.0/RefactoringTest.Domain.AssemblyInfoInputs.cache
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.Domain/obj/Debug/net6.0/RefactoringTest.Domain.AssemblyInfo.cs
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.Domain/obj/Debug/net6.0/RefactoringTest.Domain.csproj.CoreCompileInputs.cache
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.Domain/obj/Debug/net6.0/RefactoringTest.Domain.dll
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.Domain/obj/Debug/net6.0/refint/RefactoringTest.Domain.dll
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.Domain/obj/Debug/net6.0/RefactoringTest.Domain.pdb
+/Users/daniel.brazil/Downloads/Function.Admin.Vouchers.Sync/RefactoringTest/RefactoringTest.Domain/obj/Debug/net6.0/ref/RefactoringTest.Domain.dll
